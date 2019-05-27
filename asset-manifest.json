@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/juliennesantos/portfolio/static/css/main.70167d20.chunk.css",
+    "main.css": "/juliennesantos/portfolio/static/css/main.e59bf118.chunk.css",
     "main.js": "/juliennesantos/portfolio/static/js/main.4cf403d1.chunk.js",
     "main.js.map": "/juliennesantos/portfolio/static/js/main.4cf403d1.chunk.js.map",
     "runtime~main.js": "/juliennesantos/portfolio/static/js/runtime~main.3e7418e4.js",
@@ -9,9 +9,9 @@
     "static/js/2.0a9b9f73.chunk.js": "/juliennesantos/portfolio/static/js/2.0a9b9f73.chunk.js",
     "static/js/2.0a9b9f73.chunk.js.map": "/juliennesantos/portfolio/static/js/2.0a9b9f73.chunk.js.map",
     "index.html": "/juliennesantos/portfolio/index.html",
-    "precache-manifest.b210c238cdbdc816c2bde5fdfa788844.js": "/juliennesantos/portfolio/precache-manifest.b210c238cdbdc816c2bde5fdfa788844.js",
+    "precache-manifest.954390ed27afba1e90728bb83dec14b7.js": "/juliennesantos/portfolio/precache-manifest.954390ed27afba1e90728bb83dec14b7.js",
     "service-worker.js": "/juliennesantos/portfolio/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/juliennesantos/portfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.70167d20.chunk.css.map": "/juliennesantos/portfolio/static/css/main.70167d20.chunk.css.map"
+    "static/css/main.e59bf118.chunk.css.map": "/juliennesantos/portfolio/static/css/main.e59bf118.chunk.css.map"
   }
 }
