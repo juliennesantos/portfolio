@@ -8,8 +8,8 @@ class Contact extends Component {
 				<Grid className="contact-grid">
 					<Cell col={6}>
 						<h2>Julienne Santos</h2>
-						<img src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png" alt="avatar" style={{height: "250px"}}  />
-						<p style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<img src="https://cdn0.iconfinder.com/data/icons/streamline-emoji-1/48/180-woman-astronaut-2-512.png" alt="avatar" style={{height: "250px"}}  />
+						<h5 style={{width: '75%', margin: 'auto', paddingTop: '1em'}}>Let me help you reach your goals.</h5>
 					</Cell>
 					<Cell col={6}>
 						<h2>Contact Me</h2>
@@ -18,30 +18,30 @@ class Contact extends Component {
 						<div className="contact-list">
 							<List>
 								<ListItem>
-									<ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
+									<ListItemContent class="list-item-contact">
 										<i className="fa fa-phone-square" aria-hidden="true"/>
-										(123) 456-7890
+										+63 9178451486
 									</ListItemContent>
 								</ListItem>
 								
 								<ListItem>
 									<ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
 										<i className="fa fa-fax" aria-hidden="true"/>
-										(123) 456-7890
+										(632) 889-3276
 									</ListItemContent>
 								</ListItem>
 								
 								<ListItem>
 									<ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
 										<i className="fa fa-envelope" aria-hidden="true"/>
-										someone@example.com
+										juliennejsantos@gmail.com
 									</ListItemContent>
 								</ListItem>
 								
 								<ListItem>
 									<ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
-										<i className="fa fa-skype" aria-hidden="true"/>
-										MySkypeId
+										<i className="fa fa-linkedin-square" aria-hidden="true"/>
+										juliennejsantos
 									</ListItemContent>
 								</ListItem>
 								

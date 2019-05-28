@@ -1,26 +1,58 @@
+@media screen and (max-width: 768px) {
+  /* For mobile phones: */
+  h1 {font-size: 2em !important;}
+  h2 {font-size: 1.625em !important;}
+  h3 {font-size: 1.375em !important;}
+  h4 {font-size: 1.125em !important;}
+  h5 {font-size: 1.115em !important;}
+  p {font-size: 1em !important;}
+	
+	.list-item-contact {
+		font-size: 2em;
+		font-family: Anton;
+	}
+}
+
+body {
+	overflow: scroll;
+}
+
 .header-color {
-	background: #833ab4;
-	/* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-	/* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #ee0979;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
 }
 
 .landing-grid {
-	background: #833ab4;
-	/* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-	/* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
-	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-	text-align: center;
+	background: #ee0979;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	text-align: center; 
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 100%;
+	overflow: scroll;
 }
+/* .header-color {
+	background: #833ab4;
+	background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+	background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+}
+
+.landing-grid {
+	background: #833ab4; 
+	background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
+	background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
+	text-align: center; 
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+} */
 
 .projects-grid{
 	display: flex;
@@ -107,4 +139,49 @@
 .contact-list i {
 	font-size: 66px;
 	padding-right: 5rem;
+}
+
+/* Resume Page CSS */
+.resume-right-col {
+	background: #27221F;
+	color: white;
+	padding: 2em;
+}
+
+.resume-skills-progress .progressbar{
+	background-color: #fcb045 !important;
+}
+
+.home-link{
+	text-decoration: none;
+	color: white;
+}
+
+.home-link:visited{
+	color: inherit;
+}
+
+.card-title-php{
+	color: #fff;
+	height: 176px;
+	background: url(./assets/SLICeLogo.png) center / cover;
+}
+
+.card-title-react{
+	color: #fff;
+	height: 176px;
+	background: url(./assets/portfolio.png) center / cover;
+}
+
+.general-link{
+	text-decoration: none;
+}
+
+.general-link:visited{
+	color: inherit;
+}
+
+.list-item-contact {
+	font-size: 30px;
+	font-family: Anton;
 }
