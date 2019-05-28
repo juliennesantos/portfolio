@@ -8,7 +8,7 @@ function App() {
   return (
 		<div className="demo-big-content">
 			<Layout>
-				<Header className="header-color" title={<Link class="home-link" to="/">My Portfolio</Link>} scroll>
+				<Header waterfall className="header-color" title={<Link class="home-link" to="/">Julienne Santos</Link>} scroll>
 					<Navigation>
 						<Link to="/">Home</Link>
 						<Link to="/resume">Resume</Link>
@@ -17,7 +17,7 @@ function App() {
 						<Link to="/contact">Contact</Link>
 					</Navigation>
 				</Header>
-				<Drawer title={<Link class="home-link" to="/">My Portfolio</Link>}>
+				<Drawer title={<Link class="home-link" to="/">Julienne Santos</Link>}>
 					<Navigation>
 						<Link to="/">Home</Link>
 						<Link to="/resume">Resume</Link>

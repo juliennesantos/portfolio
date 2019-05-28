@@ -18,7 +18,7 @@ class Contact extends Component {
 						<div className="contact-list">
 							<List>
 								<ListItem>
-									<ListItemContent style={{fontSize:'30px', fontFamily:'Anton'}}>
+									<ListItemContent class="list-item-contact">
 										<i className="fa fa-phone-square" aria-hidden="true"/>
 										+63 9178451486
 									</ListItemContent>
