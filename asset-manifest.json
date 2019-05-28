@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/juliennesantos/portfolio/static/css/main.d796b317.chunk.css",
-    "main.js": "/juliennesantos/portfolio/static/js/main.13bafd6b.chunk.js",
-    "main.js.map": "/juliennesantos/portfolio/static/js/main.13bafd6b.chunk.js.map",
-    "runtime~main.js": "/juliennesantos/portfolio/static/js/runtime~main.3e7418e4.js",
-    "runtime~main.js.map": "/juliennesantos/portfolio/static/js/runtime~main.3e7418e4.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/juliennesantos/portfolio/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.8e61c705.chunk.js": "/juliennesantos/portfolio/static/js/2.8e61c705.chunk.js",
-    "static/js/2.8e61c705.chunk.js.map": "/juliennesantos/portfolio/static/js/2.8e61c705.chunk.js.map",
-    "index.html": "/juliennesantos/portfolio/index.html",
-    "precache-manifest.d7ca752487e1935eebc8105ba998fa79.js": "/juliennesantos/portfolio/precache-manifest.d7ca752487e1935eebc8105ba998fa79.js",
-    "service-worker.js": "/juliennesantos/portfolio/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/juliennesantos/portfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.d796b317.chunk.css.map": "/juliennesantos/portfolio/static/css/main.d796b317.chunk.css.map",
-    "static/media/SLICeLogo.png": "/juliennesantos/portfolio/static/media/SLICeLogo.41472711.png",
-    "static/media/App.css": "/juliennesantos/portfolio/static/media/portfolio.0113f132.png"
+    "main.css": "/portfolio/static/css/main.68323f0d.chunk.css",
+    "main.js": "/portfolio/static/js/main.6deb0a81.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6deb0a81.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.8e61c705.chunk.js": "/portfolio/static/js/2.8e61c705.chunk.js",
+    "static/js/2.8e61c705.chunk.js.map": "/portfolio/static/js/2.8e61c705.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.938729da7a916f32ef43722562cf2931.js": "/portfolio/precache-manifest.938729da7a916f32ef43722562cf2931.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.68323f0d.chunk.css.map": "/portfolio/static/css/main.68323f0d.chunk.css.map",
+    "static/media/SLICeLogo.png": "/portfolio/static/media/SLICeLogo.41472711.png",
+    "static/media/App.css": "/portfolio/static/media/portfolio.0113f132.png"
   }
 }
