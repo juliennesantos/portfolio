@@ -108,3 +108,23 @@
 	font-size: 66px;
 	padding-right: 5rem;
 }
+
+/* Resume Page CSS */
+.resume-right-col {
+	background: #27221F;
+	color: white;
+	padding: 2em;
+}
+
+.resume-skills-progress .progressbar{
+	background-color: #fcb045 !important;
+}
+
+.home-link{
+	text-decoration: none;
+	color: white;
+}
+
+.home-link:visited{
+	color: inherit;
+}

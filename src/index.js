@@ -8,7 +8,7 @@ import 'react-mdl/extra/material.js'; //React Material Design Lite
 import {BrowserRouter} from 'react-router-dom';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
     <App />
     </BrowserRouter>
     , document.getElementById('root'));
