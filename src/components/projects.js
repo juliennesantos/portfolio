@@ -23,7 +23,6 @@ class Projects extends Component {
 							<Button colored>LiveDemo</Button> */}
 						</CardActions>
 						<CardMenu style={{color: '#fff'}}>
-							<IconButton name="share" />
 						</CardMenu>
 					</Card>
 				</div>
@@ -41,7 +40,6 @@ class Projects extends Component {
 							<Button colored><a className='general-link' href="https://github.com/juliennesantos/slice" target="_blank" rel="noopener noreferrer">Github</a></Button>
 						</CardActions>
 						<CardMenu style={{color: '#fff'}}>
-							<IconButton name="share" />
 						</CardMenu>
 					</Card>
 				</div>
@@ -60,7 +58,6 @@ class Projects extends Component {
 							<Button colored><a className='general-link' href="https://juliennesantos.github.io/portfolio/" target="_blank" rel="noopener noreferrer">Live Demo</a></Button>
 						</CardActions>
 						<CardMenu style={{color: '#fff'}}>
-							<IconButton name="share" />
 						</CardMenu>
 					</Card>
 		</div>
